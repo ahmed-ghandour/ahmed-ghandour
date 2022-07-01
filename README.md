@@ -1,5 +1,7 @@
 # 💫 About Me:
 I am Ahmed Elghandour a Software Engineer from Cairo, Egypt<br>I am currently working as a Freelancer Flutter Developer .
+Contact with me on :
+Personal email : ahmed.n.elghandour@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-nagah-elghandour) 
