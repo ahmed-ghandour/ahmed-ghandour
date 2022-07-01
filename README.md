@@ -1,17 +1,3 @@
-### Hi there 👋
-
-<!--
-**ahmed-ghandour/ahmed-ghandour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Social app. 
-- 🌱 I’m currently learning Design patterns.
-- 👯 I’m looking to collaborate on real projects that serve alot of users.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Flutter, dart.
-- 📫 How to reach me: ahmed.n.elghandour@gmail.com
-
 # 💫 About Me:
 I am Ahmed Elghandour a Software Engineer from Cairo, Egypt<br>I am currently working as a Freelancer Flutter Developer .
 
